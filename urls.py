@@ -1,0 +1,1 @@
+URL_MAIN_PAGE = 'https://qa-routes.education-services.ru/'
